@@ -1,7 +1,6 @@
 fastapi
 uvicorn
 pandas
-numpy
-pytest
+google-genai
+python-dotenv
 python-multipart
-anthropic
