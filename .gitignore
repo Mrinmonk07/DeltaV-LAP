@@ -1,0 +1,30 @@
+# ─── SECRETS & ENVIRONMENT VARIABLES ───
+.env
+.env.local
+.env.development
+*.pem
+
+# ─── PYTHON BACKEND ───
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.pytest_cache/
+
+# ─── REACT FRONTEND ───
+node_modules/
+dist/
+build/
+.npm/
+
+# ─── DATA & LOGS ───
+*.csv
+*.xlsx
+!sample_data.csv
+*.log
+
+# ─── OS & IDE CACHES ───
+.DS_Store
+.vscode/
+.idea/
