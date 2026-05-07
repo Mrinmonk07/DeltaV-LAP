@@ -8,7 +8,7 @@ import {
 import PartialDayBadge from "./components/PartialDayBadge";
 import { detectPartialDay } from "./utils/partialDayUtils";
 
-const API_BASE = "https://deltav-lap-1.onrender.com"; 
+const API_BASE = "https://deltav-lap-1.onrender.com/api"; 
 const PALETTE = ["#00f0ff","#f59e0b","#10b981","#ef4444","#a78bfa","#fb923c","#34d399","#f472b6"];
 const LIGHT_PALETTE = ["#2563eb","#d97706","#059669","#dc2626","#7c3aed","#ea580c","#16a34a","#db2777"];
 
